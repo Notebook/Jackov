@@ -1,0 +1,71 @@
+Friday, March 09, 2012
+7:10 AM - Composition Notebook: Hey
+=KoL= spOOky is now Online.
+7:12 AM - =KoL= spOOky: spop
+7:12 AM - Composition Notebook: Looking at Facepunch
+7:12 AM - Composition Notebook: You?
+7:13 AM - =KoL= spOOky: doing an assignment
+7:13 AM - Composition Notebook: Fun
+7:13 AM - Composition Notebook: Also
+7:13 AM - Composition Notebook: I think we should list what the Project Management thing should have
+7:13 AM - Composition Notebook: So we know what to make
+7:13 AM - =KoL= spOOky: probaby
+7:21 AM - Composition Notebook: So
+7:21 AM - Composition Notebook: What do you think we should have?
+7:23 AM - =KoL= spOOky: UHM
+7:23 AM - =KoL= spOOky: a user login system
+7:23 AM - =KoL= spOOky: obs
+7:23 AM - Composition Notebook: Yeah
+7:23 AM - =KoL= spOOky: access levels
+7:23 AM - =KoL= spOOky: user grops
+7:23 AM - Composition Notebook: Okay
+7:23 AM - Composition Notebook: User and Admin CP?
+7:23 AM - =KoL= spOOky: yeh
+7:24 AM - =KoL= spOOky: i was thinking more of ticket suppot system
+7:24 AM - =KoL= spOOky: then project management
+7:24 AM - Composition Notebook: First off
+7:24 AM - Composition Notebook: I wasn't entirely sure what you meant by Project Management
+7:24 AM - =KoL= spOOky: like
+7:24 AM - =KoL= spOOky: a list of projects
+7:24 AM - =KoL= spOOky: and admins have the ability to add / remove them
+7:24 AM - =KoL= spOOky: update the status
+7:24 AM - =KoL= spOOky: descriptions
+7:24 AM - =KoL= spOOky: etc
+7:25 AM - Composition Notebook: Okay
+7:25 AM - Composition Notebook: That's what I figured
+7:25 AM - Composition Notebook: I like that idea
+7:26 AM - =KoL= spOOky: t.hanks
+7:30 AM - Composition Notebook: I may work on this a little while downloading Cry of Fear
+7:30 AM - =KoL= spOOky: yay
+7:30 AM - =KoL= spOOky: whens that
+7:30 AM - Composition Notebook: After school today
+7:30 AM - =KoL= spOOky: kewl
+7:32 AM - Composition Notebook: Any idea for the file structure?
+7:36 AM - =KoL= spOOky: wat do u mean
+7:37 AM - Composition Notebook: config folder, includes folder, etc
+7:37 AM - =KoL= spOOky: oh
+7:37 AM - =KoL= spOOky: maybe
+7:37 AM - =KoL= spOOky: /users/
+7:37 AM - =KoL= spOOky: /admin/
+7:38 AM - =KoL= spOOky: /core/ or /engine/ or something else
+7:38 AM - =KoL= spOOky: /uploads/ if we include file upload
+7:38 AM - =KoL= spOOky: and /styles/ if we include a templating system
+7:41 AM - Composition Notebook: Okay
+7:41 AM - Composition Notebook: I have styles/, uploads/, and engine/
+7:41 AM - Composition Notebook: I put the connect file in engine
+7:41 AM - =KoL= spOOky: kewl
+7:41 AM - =KoL= spOOky: dont 4get /users/ and /admin/
+7:41 AM - Composition Notebook: I don't think it quite fits in the other two directories
+7:41 AM - Composition Notebook: I'm contemplating that
+7:42 AM - =KoL= spOOky: whys that
+7:42 AM - Composition Notebook: It may just be because I don't understand your reasoning for that
+7:42 AM - =KoL= spOOky: go on
+7:42 AM - Composition Notebook: Are you saying that for like /users/ for usercp things and /admin/ for admin cp things?
+7:42 AM - =KoL= spOOky: basically
+7:43 AM - =KoL= spOOky: and 2 keep it ~tIdy~
+7:43 AM - Composition Notebook: Interesting
+7:43 AM - Composition Notebook: I shall decide when/if I get further on this
+7:43 AM - =KoL= spOOky: save trhis log
+7:43 AM - =KoL= spOOky: 2 be safe m8
+7:43 AM - Composition Notebook: Will do
+7:43 AM - =KoL= spOOky: yaye
